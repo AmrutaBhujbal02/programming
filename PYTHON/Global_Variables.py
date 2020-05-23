@@ -19,7 +19,7 @@ OUTPUT:
 UnboundLocalError: local variable 's' referenced before assignment
 MEANING OF THIS ERROR IS THAT IF ANY VARIABLE declared inside a function ,it becomes
 local variable inside that function so to solve this error we have to declared variable s
-exceeded by keyword global
+exceeded by keyword global.
 
 """
 
